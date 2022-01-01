@@ -1,4 +1,4 @@
-# Othello_Game
+# Othello Game
 
 ## Table of Contents
   <ol>
